@@ -1,1 +1,8 @@
 @import "tailwindcss";
+/* @theme {
+    --primary: #5f6FFF
+} */
+:root {
+    --primary: #5f6FFF;
+  }
+  
